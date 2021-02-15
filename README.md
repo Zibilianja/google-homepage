@@ -1,0 +1,1 @@
+Project building a website using HTML utilizing an existing webpage and DEV tools in Google Chrome to recreate and adjust CSS properties and appearance.
